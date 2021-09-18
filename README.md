@@ -1,1 +1,2 @@
 # Homework06
+This assignment involves setting up a dashboard with charts, maps and interactive visualsations for customers of a real investment division to determine if they would like to invest in rental properties in San Francisco.
