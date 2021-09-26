@@ -1,7 +1,8 @@
-# Homework06
+# Homework06 San Francisco real estate analysis 2010- 2016.
+
 This assignment involves setting up a dashboard with charts, maps and interactive visualsations for customers of a real investment division to determine if they would like to invest in rental properties in San Francisco.
 
-The Rental analysis Jupyter Lab codefile provides the following data visualisations which are then represented as a Dashboard in the dashboards Jupiter Lab codefile.
+The Rental analysis Jupyter Lab codefile provides the following data visualisations which are then represented as a Dashboard in the Dashboards Jupiter Lab codefile.
 
 1. Calculate and plot the mean number of housing units per year
 2. Calculate and plot average sale price per square foot 
